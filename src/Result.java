@@ -14,6 +14,7 @@ public class Result{
             }   else {
                 System.out.println("Invalid");
             }
+
             System.out.println("User want to continue ? (Yes(1) or No(0))");
             input = sc.nextInt();
 
