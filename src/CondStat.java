@@ -12,7 +12,7 @@ public class CondStat {
         if (age <= 18){
             System.out.println("Do not Drive" );
         }
-        else{
+        else {
             System.out.println("You are eligible to Drive");
         }
         int a = -45;
